@@ -1,4 +1,9 @@
 # Quantum-Computer
+
+
+QNOVA is a set of Python scripts designed to build simulate and test quantum circuits using Qiskit . The main idea it provides a layered framework for quantum simulation — starting from a lightweight version for quick testing moving to a stable version with more features and finally a high-end version that supports advanced algorithms noise modeling and near-hardware realistic scenarios
+
+
 this project made for simulator in normal computer
 General Architecture :
 
